@@ -1,0 +1,26 @@
+#config_version=6
+
+flippers:
+  player1_left:
+    switch: player1_left_flipper
+    coil: flipper_left
+    eos_switch: flipper_left_eos
+    activation_time: 0ms
+
+  player1_right:
+    switch: player1_right_flipper
+    coil: flipper_right
+    eos_switch: flipper_right_eos
+    activation_time: 0ms
+
+  player2_left:
+    switch: player2_left_flipper
+    coil: flipper_left_2
+    eos_switch: flipper_left_2_eos
+    activation_time: 0ms
+
+  player2_right:
+    switch: player2_right_flipper
+    coil: flipper_right_2
+    eos_switch: flipper_right_2_eos
+    activation_time: 0ms

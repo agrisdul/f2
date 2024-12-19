@@ -1,0 +1,9 @@
+#config_version=6
+
+keyboard:
+  player1_left_flipper: a
+  player1_right_flipper: d
+  player2_left_flipper: j
+  player2_right_flipper: l
+
+  
