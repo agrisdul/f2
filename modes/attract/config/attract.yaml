@@ -5,7 +5,7 @@
 
 slide_player:
   mode_attract_started: attract
-  mode_attract_started: attract_2
+  mode_attract_2_started: attract_2
 
 sound_player:
   mode_attract_started:
