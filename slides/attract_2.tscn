@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1j2hs4ksatme"]
+
+[ext_resource type="Script" path="res://addons/mpf-gmc/classes/mpf_slide.gd" id="1_5u0ya"]
+
+[node name="MPFSlide" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 790.0
+offset_bottom = 586.0
+script = ExtResource("1_5u0ya")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 777.0
+offset_bottom = 569.0
+color = Color(1, 1, 0.356863, 1)
